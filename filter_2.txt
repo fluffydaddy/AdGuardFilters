@@ -1,0 +1,12 @@
+! CCleaner Piriform DNS Filter
+||alpha-crap.ff.avast.com^
+||analytics.ff.avast.com^
+||ip-info.ff.avast.com^
+||ipm-provider.ff.avast.com^
+||license-api.ccleaner.com^
+||license.piriform.com^
+||ncc.avast.com^
+||ncc.avast.com.edgesuite.net^
+||shepherd.ff.avast.com^
+||ccleaner.com^
+||www.ccleaner.com^
